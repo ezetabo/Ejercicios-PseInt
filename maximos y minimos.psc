@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo maximosYMinimos
 	definir unNumero como entero;
 	definir maximo como entero;
 	definir i como entero;
@@ -22,5 +22,5 @@ Algoritmo sin_titulo
 	FinMientras
 	
 	Mostrar "El maximo es: ", maximo;
-	
+	// fork de ezequiel
 FinAlgoritmo
