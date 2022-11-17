@@ -1,4 +1,4 @@
-Algoritmo maximosYMinimos
+Algoritmo maximosYMinimos_Version2
 	definir unNumero como entero;
 	definir maximo como entero;
 	definir i como entero;
@@ -22,5 +22,5 @@ Algoritmo maximosYMinimos
 	FinMientras
 	
 	Mostrar "El maximo es: ", maximo;
-	// fork de ezequiel
+	// fork de ezequiel ladri
 FinAlgoritmo
